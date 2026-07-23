@@ -1,42 +1,83 @@
 <div align="center">
 
-  <img src="https://img.shields.io/badge/Hello%2C%20BanhNhatKhang-000000?style=for-the-badge&logo=starship&logoColor=white" alt="Header" />
+  <img
+    src="https://img.shields.io/badge/Hello%2C%20I'm%20Banh%20Nhat%20Khang-000000?style=for-the-badge&logo=starship&logoColor=white"
+    alt="Hello, I'm Banh Nhat Khang"
+  />
 
   <h1>🌌 Welcome to my universe!</h1>
-  <h3>Full-Stack Developer | Tech Enthusiast | Open to Collaboration</h3>
-  
-  <br>
+
+  <h3>
+    Fresher Java Developer | Spring Boot & React
+  </h3>
+
   <p>
-    <img src="https://komarev.com/ghpvc/?username=BanhNhatKhang&label=Profile%20Views&color=F700FF&style=flat-square" alt="Profile Views" />
+    Information Technology Graduate — Can Tho University
   </p>
-  
+
+  <p>
+    Open to Java Backend and Full-Stack Development opportunities
+  </p>
+
+  <br>
+
+  <p>
+    <img
+      src="https://komarev.com/ghpvc/?username=BanhNhatKhang&label=Profile%20Views&color=F700FF&style=flat-square"
+      alt="Profile Views"
+    />
+  </p>
+
 </div>
 
 ---
 
 ### 💻 About Me
 
-* 🎯 **Current Focus:** Building applications with **Java Core**, **PHP**, **Python**, and **React**.
-* 📚 **Learning Next:** Expanding skills in **AWS**, **Docker**, and **Redis**.
-* 🤝 **Collaborations:** Open to working on **Backend**, **Frontend**, **Web3**, **Blockchain**, and **Fintech**.
+* 🎯 **Current Focus:** Developing full-stack applications with **Java 17**, **Spring Boot**, **React**, **TypeScript**, and **PostgreSQL**.
+* 🧩 **Interested In:** Backend architecture, REST API design, authentication, real-time systems, and software quality.
+* 🚀 **Current Project:** Building **Vifi**, a Social Watching platform with real-time Watch Rooms and AI-assisted video moderation.
+* 📚 **Currently Learning:** Expanding my knowledge of **AWS**, **Docker**, **Redis**, and AI model integration.
+* 🇯🇵 **Additional Learning:** Self-studying Japanese for opportunities in Japanese software projects.
+* 💼 **Career Goal:** Seeking opportunities as a **Fresher Java Developer** or **Backend Developer**.
 
 <br>
 
 ### 📧 Connect with Me
-<div align="center">
-  <a href="https://github.com/BanhNhatKhang">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:banhnhatkhang2702@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/banhnhatkhang/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+
+  <a href="https://github.com/BanhNhatKhang">
+    <img
+      src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
+
+  <a href="mailto:banhnhatkhang2702@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Gmail"
+    />
+  </a>
+
+  <a href="https://www.linkedin.com/in/banhnhatkhang/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+
+</div>
+
+<br>
+
+<div align="center">
+  <img
+    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+    width="300"
+    alt="Developer coding animation"
+  />
 </div>
 
 
