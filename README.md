@@ -121,9 +121,9 @@
 
   <br /><br />
 
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img
-      src="https://streak-stats.demolab.com?user=BanhNhatKhang&theme=vue-dark&hide_border=true&border_radius=10"
+      src="./profile/streak.svg"
       alt="Banh Nhat Khang's GitHub contribution streak"
     />
   </a>
