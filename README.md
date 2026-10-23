@@ -7,7 +7,7 @@
 
   <h1>🌌 Welcome to my universe!</h1>
 
-  <h3>Fresher Java Developer | Spring Boot & React</h3>
+  <h3>Junior Java Developer | Spring Boot & React</h3>
 
   <p>
     Information Technology Graduate — Can Tho University
