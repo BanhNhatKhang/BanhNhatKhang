@@ -35,7 +35,7 @@
 - 🚀 **Current Project:** Building **Vifi**, a Social Watching platform with real-time Watch Rooms and AI-assisted video moderation.
 - 📚 **Currently Learning:** Expanding my knowledge of **AWS**, **Docker**, **Redis**, and AI model integration.
 - 🇯🇵 **Additional Learning:** Self-studying Japanese for opportunities in Japanese software projects.
-- 💼 **Career Goal:** Seeking opportunities as a **Fresher Java Developer** or **Backend Developer**.
+- 💼 **Career Goal:** Java Backend Developer aiming to grow into a **F Senior Java Developer** through hands-on experience and continuous learning.
 
 ---
 
