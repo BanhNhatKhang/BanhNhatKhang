@@ -99,7 +99,7 @@
 
   <img
     width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=BanhNhatKhang&theme=react-dark&hide_border=true&area=true"
+    src="https://github-readme-activity-graph-eight-beta.vercel.app/graph?username=BanhNhatKhang&theme=github-compact"
     alt="Banh Nhat Khang's GitHub activity graph"
   />
 
