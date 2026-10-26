@@ -114,7 +114,7 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img
       width="100%"
-      src="https://trophy.ryglcloud.net/?username=BanhNhatKhang&theme=darkhub&title=Commits,Experience,Repositories,Reviews&column=4&margin-w=8&margin-h=8&no-bg=true&no-frame=true&rank=-%3F"
+      src="https://github-profile-trophy-six-zeta.vercel.app/?username=BanhNhatKhang&theme=darkhub&column=4&margin-w=8&margin-h=8&no-bg=true&no-frame=true&rank=-%3F"
       alt="Banh Nhat Khang's GitHub trophies"
     />
   </a>
